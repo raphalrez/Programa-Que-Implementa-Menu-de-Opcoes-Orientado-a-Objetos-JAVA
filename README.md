@@ -9,7 +9,7 @@
 -----------
 
 Projeto utilizando os conhecimentos obtidos no 1º e 2º Periodo de Ciencia da Computação na disciplina Logica Programação e Algoritmos II.
-Consiste na utilização da Linguagem JAVA com profundamento em POO.
+Consiste na utilização da Linguagem JAVA com aprofundamento em POO.
 
 O projeto consiste em:
 
